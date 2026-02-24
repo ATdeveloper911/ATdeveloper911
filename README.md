@@ -41,9 +41,9 @@ Across Fintech, Healthcare, and Institutional Management, operations are often p
 
 | Repository | Primary Focus | Problem Solved |
 | --- | --- | --- |
-| **[MERN Ecosystem](https://www.google.com/search?q=./mern-stack)** | **Integrated Command Centers** | Coordination Gaps in Medical & Institutional Logistics. |
-| **[Mobility Hub](https://www.google.com/search?q=./react-native)** | **Cloud-Synced Mobility** | Stationary System Barriers in Lab Testing & Wellness. |
-| **[Flutter Core](https://www.google.com/search?q=./flutter-)** | **Institutional Accountability** | Fragmented Governance & Strategic Academic Uncertainty. |
+| **[MERN Ecosystem]([https://www.google.com/search?q=./mern-stac](https://github.com/ATdeveloper911/mern-stack))** | **Integrated Command Centers** | Coordination Gaps in Medical & Institutional Logistics. |
+| **[Mobility Hub]([https://www.google.com/search?q=./react-native](https://github.com/ATdeveloper911/react-native))** | **Cloud-Synced Mobility** | Stationary System Barriers in Lab Testing & Wellness. |
+| **[Flutter Core]([https://www.google.com/search?q=./flutter-](https://github.com/ATdeveloper911/flutter-))** | **Institutional Accountability** | Fragmented Governance & Strategic Academic Uncertainty. |
 
 ---
 
