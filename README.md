@@ -1,171 +1,8 @@
-
-
----
-
-# 🌌 The Multi-Vertical Architect 
-
-<div align="center">
-<p><strong>Full-Stack Engineer & Cross-Platform Architect specializing in Mission-Critical Ecosystems.</strong></p>
-<p>I build the bridge between "Stationary Legacy Systems" and "Agile Cloud-Synced Command Centers."</p>
-
-</div>
-
----
-
-## 🚨 The Mission: Systemic Untethering
-
-Across Fintech, Healthcare, and Institutional Management, operations are often paralyzed by **Stationary System Barriers**. My mission is to engineer the **"Mobile-First Revolution"** for these industries—untethering stakeholders from fixed desks and providing lab-grade precision, real-time accountability, and zero-knowledge security directly at the point of need.
-
----
-
-## 🛠️ Technical Ecosystems & Verticals
-
-### 🛡️ Security & Privacy Engineering
-
-* **Zero-Knowledge Architecture**: Implementing AES-256-GCM primitives where decryption keys never hit the server.
-* **Identity Protection**: Firebase device fingerprinting and remote session revocation for high-stakes laboratory data.
-
-### 🏢 Enterprise ERP & Fintech
-
-* **Inventory Command Centers**: Solving the "Blind Profit" and "Ghost Stock" bottlenecks via automated audit-proof ledgers.
-* **Laboratory Physics**: Developing high-precision engines implementing Archimedes' Principle and complex traditional unit math (**Tola/Masha/Ratti**).
-
-### 🧠 AI-Powered SaaS & Logistics
-
-* **Sentiment Intelligence**: Integrating Gemini AI for real-time mood factor correlation and wellness forecasting.
-* **Institutional Linkage**: Engineering bulk onboarding engines and automated escalation hierarchies for academic accountability.
-
----
-
-## 📂 The Architect's Repositories
-
-| Repository | Primary Focus | Problem Solved |
-| --- | --- | --- |
-| **[MERN Ecosystem](https://github.com/ATdeveloper911/mern-stack)** | **Integrated Command Centers** | Coordination Gaps in Medical & Institutional Logistics. |
-| **[Mobility Hub](https://github.com/ATdeveloper911/react-native)** | **Cloud-Synced Mobility** | Stationary System Barriers in Lab Testing & Wellness. |
-| **[Flutter Core](https://github.com/ATdeveloper911/flutter-)** | **Institutional Accountability** | Fragmented Governance & Strategic Academic Uncertainty. |
-
----
-
-## 🚀 Impact Metrics
-
-* **100% Transparency**: Through immutable audit trails and RLS-protected timelines.
-* **Zero-Manual-Error**: Via physics-tuned algorithms and policy-compliant forecasting engines.
-* **High-Fidelity Sync**: Real-time "Handshakes" between Mobile, Web, and Desktop terminals.
-
----
-
-## 🏛️ Education & Roots
-
-* **BS Software Engineering** | COMSATS University Islamabad (Vehari Campus)
-* **Timeline**: 2022 – 2026 (Graduation in 8 Months)
-
----
-
-<div align="center">
-<p><strong>SYSTEMS_STATUS: ACTIVE 🟢</strong></p>
-<p>Let's build something disruptive. 🚀</p>
-<code>Portfolio: asad-portfolio-pi.vercel.app</code>  
-<code>asadullah.devop@gmail.com</code>
-</div>
-
----
-
-Hey my buddy, what's up? Is there any other adventure that is waiting?
-
-I have completely overhauled your GitHub Profile README into a high-octane, cinematic landing page. I’ve added **color-coded badges**, a **dynamic header**, and highlighted your **Flagship Projects** for each technical ecosystem to ensure anyone visiting your profile immediately sees your "Senior Architect" value.
-
-Copy and paste this into your profile's `README.md`:
-
------
-
-# \<p align="center"\>🌌 The Multi-Vertical Architect | Asadullah\</p\>
-
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/Full--Stack\_Engineer-Cross--Platform\_Architect-blue?style=for-the-badge\&logo=codeproject](https://www.google.com/search?q=https://img.shields.io/badge/Full--Stack_Engineer-Cross--Platform_Architect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dcodeproject)" /\>
-\<img src="[https://img.shields.io/badge/Systemic\_Untethering-Expert-emerald?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/Systemic_Untethering-Expert-emerald%3Fstyle%3Dfor-the-badge)" /\>
-\</p\>
-
-\<div align="center"\>
-\<p\>\<strong\>I build the bridge between "Stationary Legacy Systems" and "Agile Cloud-Synced Command Centers."\</strong\>\</p\>
-
-[](https://www.google.com/search?q=%5Bhttps://bestpriceksa.com/%5D\(https://bestpriceksa.com/\))
-[](https://www.google.com/search?q=https://asad-portfolio-pi.vercel.app/)
-[](mailto:asadullah.devop@gmail.com)
-
-\</div\>
-
------
-
-## 🚨 The Mission: Systemic Untethering
-
-Across Fintech, Healthcare, and Institutional Management, operations are often paralyzed by **Stationary System Barriers**. My mission is to engineer the **"Mobile-First Revolution"** for these industries—untethering stakeholders from fixed desks and providing lab-grade precision, real-time accountability, and zero-knowledge security directly at the point of need.
-
------
-
-## 🏗️ Flagship Engineering Masterpieces
-
-### 🌐 [MERN Ecosystem](https://github.com/ATdeveloper911/mern-stack)
-
-  * **[BestPriceKSA.com](https://bestpriceksa.com/)**: An enterprise retail ERP solving "Blind Profit" and "Ghost Stock" bottlenecks via real-time horizontal stock visibility.
-  * **[AIILP](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/AIILP)**: An institutional linkage platform featuring **Bulk Student Onboarding (\< 60s)** and real-time internship status tracking.
-
-### 🎯 [Flutter Core](https://github.com/ATdeveloper911/flutter-)
-
-  * **[VeraBolt](https://github.com/ATdeveloper911/flutter-)**: An ultra-secure license SaaS with an **Offline-First Core** and hardware-locked security.
-  * **[Smart Complaint System](https://github.com/ATdeveloper911/flutter-)**: A governance tool with **24h automated escalation** and RLS-protected audit timelines.
-
-### 📱 [Mobility Hub](https://github.com/ATdeveloper911/react-native)
-
-  * **[Gold Bazar](https://github.com/ATdeveloper911/react-native)**: A lab-grade laboratory OS implementing **Archimedes' Principle** and traditional **Tola/Masha/Ratti** math.
-  * **[MindSpace](https://github.com/ATdeveloper911/react-native)**: A mental wellness ecosystem utilizing **Gemini AI for Sentiment Analysis** and cross-platform sync.
-
------
-
-## 🛠️ Technical Ecosystems & Verticals
-
-### 🛡️ Security & Privacy Engineering
-
-  * **Zero-Knowledge Architecture**: AES-256-GCM primitives where decryption keys never hit the server.
-  * **Identity Protection**: Firebase device fingerprinting and remote session revocation.
-
-### 🏢 Enterprise ERP & Fintech
-
-  * **Inventory Command Centers**: Automated audit-proof ledgers for 100% financial accountability.
-  * **Laboratory Physics**: Physics-tuned engines for high-value precious metal assaying.
-
------
-
-## 🚀 Impact Metrics
-
-  * **100% Transparency**: Through immutable audit trails and RLS-protected timelines.
-  * **Zero-Manual-Error**: Via physics-tuned algorithms and policy-compliant forecasting engines.
-  * **High-Fidelity Sync**: Real-time "Handshakes" between Mobile, Web, and Desktop terminals.
-
------
-
-## 🏛️ Education & Roots
-
-  * **BS Software Engineering** | COMSATS University Islamabad (Vehari Campus)
-  * **Timeline**: 2022 – 2026 (Graduation in 8 Months)
-
------
-
-\<div align="center"\>
-\<p\>\<strong\>SYSTEMS\_STATUS: ACTIVE 🟢\</strong\>\</p\>
-\<p\>Let's build something disruptive. 🚀\</p\>
-\</div\>
-
------
-
-
-
----
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Asadullah%20|%20Software%20Architect&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=45&theme=rose" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=260&section=header&text=Asadullah%20|%20Software%20Architect&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38" /> </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3500&pause=1000&color=FF2E63&center=true&vCenter=true&width=800&lines=Mastering+MERN+Stack;Flutter+Expert;React+Native+Specialist;Zero-Knowledge+Security+Architect;Offline-First+System+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=700&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Architect;Flutter+Expert;React+Native+Specialist;Zero-Knowledge+Security+Engineer;Offline-First+Systems;Mission-Critical+Software" alt="Typing SVG" />
   </a>
 </p>
 
@@ -184,12 +21,12 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 
 ## 📊 Performance Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATdeveloper911&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATdeveloper911&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ATdeveloper911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATdeveloper911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATdeveloper911&theme=dracula&bg_color=1a1a2e&hide_border=true&color=FF2E63&line=FF2E63" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATdeveloper911&theme=react-dark&bg_color=0a192f&hide_border=true&color=00F5FF&line=00F5FF" alt="Contribution Graph" />
 </p>
 
 ---
@@ -306,4 +143,79 @@ Node.js • Express • Supabase • JWT • RBAC • Encryption
 3.  **Color Visuals**: Using badges makes the tech stack and project status instantly scannable and professional.
 
 Would you like me to create a **"Current Research"** badge for your **Gold Bazar** and **Dele.to** projects to show they are R\&D initiatives?
+---
+
+
+
+
+
+
+
+-----
+
+# \<p align="center"\> \<img src="[https://capsule-render.vercel.app/api?type=waving\&color=0:00b4db,100:0083b0\&height=260\&section=header\&text=Asadullah%20](https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:00b4db,100:0083b0%26height%3D260%26section%3Dheader%26text%3DAsadullah%2520)|%20Software%20Architect\&fontSize=45\&fontColor=fff\&animation=fadeIn\&fontAlignY=38" /\> \</p\>
+
+\<p align="center"\>
+\<a href="[https://git.io/typing-svg](https://git.io/typing-svg)"\>
+\<img src="[https://readme-typing-svg.herokuapp.com?font=Exo+2\&weight=700\&size=24\&duration=3000\&pause=1000\&color=00F5FF\&center=true\&vCenter=true\&width=800\&lines=MERN+Stack+Architect;Flutter+Expert;React+Native+Specialist;Zero-Knowledge+Security+Engineer;Offline-First+Systems;Mission-Critical+Software](https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DExo%2B2%26weight%3D700%26size%3D24%26duration%3D3000%26pause%3D1000%26color%3D00F5FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DMERN%2BStack%2BArchitect%3BFlutter%2BExpert%3BReact%2BNative%2BSpecialist%3BZero-Knowledge%2BSecurity%2BEngineer%3BOffline-First%2BSystems%3BMission-Critical%2BSoftware)" alt="Typing SVG" /\>
+\</a\>
+\</p\>
+
+-----
+
+## 🛰️ Systemic Vision
+
+I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-Synced Mobility**. My mission is **Systemic Untethering**—moving professional data from fixed desks to high-performance, resilient mobile ecosystems.
+
+### 🛠️ Core Verticals
+
+  * 🚀 **Full-Stack Mastery**: Scalable MERN architectures with 0ms cloud-sync.
+  * 📱 **Mobile Mobility**: High-fidelity Flutter & React Native applications.
+  * 🛡️ **Hardened Security**: Zero-knowledge encryption and RLS-protected data vaults.
+  * ⚡ **Local-First Logic**: Resilient systems built on Isar and Supabase Realtime.
+
+-----
+
+## 📂 Project Showreel: Engineering for Impact
+
+### 🌐 MERN Stack | Integrated Command Centers
+
+  * **[BestPriceKSA](https://www.google.com/search?q=https://bestpriceksa.com/)**: An enterprise retail ERP that eliminated "Blind Profits" by centralizing inventory and finance into a single horizontal "Command Strip".
+  * **[AIILP](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/AIILP)**: An Academic-Industry Linkage Platform featuring **Bulk Student Onboarding (\<60s)** and real-time internship status tracking.
+  * **[BloodLink](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/blood_donations_system)**: A life-critical medical logistics system using **Socket.IO** to reduce matching latency during emergencies.
+
+### 🎯 Flutter Core | Institutional Logic
+
+  * **[VeraBolt](https://github.com/ATdeveloper911/flutter-)**: A high-performance license SaaS built on a **Local-First architecture**, ensuring 100% data durability even in offline environments.
+  * **[Smart Complaint System](https://github.com/ATdeveloper911/flutter-)**: A governance tool that decentralizes accountability through **automated 24h escalation** and RLS-protected timelines.
+  * **[BS CGPA Calculator](https://github.com/ATdeveloper911/flutter-)**: An academic strategy engine that helps students forecast long-term goals and export verifiable records via **PDF/CSV**.
+
+### 📱 React Native | Cloud-Synced Mobility
+
+  * **[Gold Bazar](https://github.com/ATdeveloper911/react-native)**: A physics-based laboratory suite implementing **Archimedes' Principle** and traditional **Tola/Masha/Ratti** weight conversion.
+  * **[MindSpace](https://github.com/ATdeveloper911/react-native)**: A mental wellness ecosystem that leverages **Gemini AI for Sentiment Analysis** to provide actionable wellness data.
+  * **[Smart Travel Planner](https://github.com/ATdeveloper911/react-native)**: A group logistics engine featuring a **Hybrid Budget Calculator** and an AI-powered assistant for itinerary management.
+
+-----
+
+## 📊 Performance Analytics
+
+\<p align="center"\>
+\<img src="[https://github-readme-stats.vercel.app/api?username=ATdeveloper911\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&bg\_color=0a192f](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DATdeveloper911%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0a192f)" alt="GitHub Stats" /\>
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ATdeveloper911\&layout=compact\&theme=tokyonight\&hide\_border=true\&bg\_color=0a192f](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DATdeveloper911%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0a192f)" alt="Top Langs" /\>
+\</p\>
+
+\<p align="center"\>
+\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=ATdeveloper911\&theme=react-dark\&bg\_color=0a192f\&hide\_border=true\&color=00F5FF\&line=00F5FF](https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DATdeveloper911%26theme%3Dreact-dark%26bg_color%3D0a192f%26hide_border%3Dtrue%26color%3D00F5FF%26line%3D00F5FF)" alt="Contribution Graph" /\>
+\</p\>
+
+-----
+
+\<div align="center"\>
+\<code\>Portfolio: asad-portfolio-pi.vercel.app\</code\>  
+\<code\>Email: asadullah.devop@gmail.com\</code\>
+\</div\>
+
+-----
+
 
