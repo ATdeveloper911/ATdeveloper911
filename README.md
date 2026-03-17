@@ -250,15 +250,22 @@ Node.js • Express • Supabase • JWT • RBAC • Encryption
 
 # 📊 GitHub Analytics
 
-\<p align="center"\>
-\<img src="[https://github-readme-stats.vercel.app/api?username=ATdeveloper911\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&bg\_color=0f2027](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DATdeveloper911%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0f2027)" alt="GitHub Stats" /\>
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ATdeveloper911\&layout=compact\&theme=tokyonight\&hide\_border=true\&bg\_color=0f2027](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DATdeveloper911%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0f2027)" alt="Top Langs" /\>
-\</p\>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ATdeveloper911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATdeveloper911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="Top Langs" />
+</p>
 
-\<p align="center"\>
-\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=ATdeveloper911\&theme=tokyonight\&hide\_border=true\&background=0f2027](https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DATdeveloper911%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0f2027)" alt="Streak Stats" /\>
-\</p\>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATdeveloper911&theme=tokyonight&hide_border=true&background=0f2027" alt="Streak Stats" />
+</p>
 
+---
+
+# 🌊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATdeveloper911&theme=react-dark&bg_color=0f2027&hide_border=true&color=14F1D9&line=14F1D9" alt="Contribution Graph" />
+</p>
 -----
 
 # 🧩 Engineering Principles
