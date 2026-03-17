@@ -32,9 +32,21 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 ---
 
 <div align="center">
-  <code>Portfolio: asad-portfolio-pi.vercel.app</code>  
-  <code>Email: asadullah.devop@gmail.com</code>
+  <p><strong>SYSTEMS_STATUS: ACTIVE 🟢</strong></p>
+  <p>Let's build something disruptive. 🚀</p>
+
+  <a href="https://asad-portfolio-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-282c34?style=for-the-badge&logo=vercel&logoColor=61AFEF" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:asadullah.devop@gmail.com">
+    <img src="https://img.shields.io/badge/SEND_EMAIL-282c34?style=for-the-badge&logo=gmail&logoColor=E06C75" alt="Email" />
+  </a>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=30&section=footer" />
+</p>
 
 
 
@@ -148,33 +160,49 @@ Would you like me to create a **"Current Research"** badge for your **Gold Bazar
 
 
 
+----
 
 
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=260&section=header&text=Asadullah%20|%20Software%20Architect&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38" /> </p>
 
------
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=700&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Architect;Flutter+Expert;React+Native+Specialist;Zero-Knowledge+Security+Engineer;Offline-First+Systems;Mission-Critical+Software" alt="Typing SVG" />
+  </a>
+</p>
 
-# \<p align="center"\> \<img src="[https://capsule-render.vercel.app/api?type=waving\&color=0:00b4db,100:0083b0\&height=260\&section=header\&text=Asadullah%20](https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:00b4db,100:0083b0%26height%3D260%26section%3Dheader%26text%3DAsadullah%2520)|%20Software%20Architect\&fontSize=45\&fontColor=fff\&animation=fadeIn\&fontAlignY=38" /\> \</p\>
-
-\<p align="center"\>
-\<a href="[https://git.io/typing-svg](https://git.io/typing-svg)"\>
-\<img src="[https://readme-typing-svg.herokuapp.com?font=Exo+2\&weight=700\&size=24\&duration=3000\&pause=1000\&color=00F5FF\&center=true\&vCenter=true\&width=800\&lines=MERN+Stack+Architect;Flutter+Expert;React+Native+Specialist;Zero-Knowledge+Security+Engineer;Offline-First+Systems;Mission-Critical+Software](https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DExo%2B2%26weight%3D700%26size%3D24%26duration%3D3000%26pause%3D1000%26color%3D00F5FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DMERN%2BStack%2BArchitect%3BFlutter%2BExpert%3BReact%2BNative%2BSpecialist%3BZero-Knowledge%2BSecurity%2BEngineer%3BOffline-First%2BSystems%3BMission-Critical%2BSoftware)" alt="Typing SVG" /\>
-\</a\>
-\</p\>
-
------
+---
 
 ## 🛰️ Systemic Vision
-
 I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-Synced Mobility**. My mission is **Systemic Untethering**—moving professional data from fixed desks to high-performance, resilient mobile ecosystems.
 
 ### 🛠️ Core Verticals
+* 🚀 **Full-Stack Mastery**: Scalable MERN architectures with 0ms cloud-sync.
+* 📱 **Mobile Mobility**: High-fidelity Flutter & React Native applications.
+* 🛡️ **Hardened Security**: Zero-knowledge encryption and RLS-protected data vaults.
+* ⚡ **Local-First Logic**: Resilient systems built on Isar and Supabase Realtime.
 
-  * 🚀 **Full-Stack Mastery**: Scalable MERN architectures with 0ms cloud-sync.
-  * 📱 **Mobile Mobility**: High-fidelity Flutter & React Native applications.
-  * 🛡️ **Hardened Security**: Zero-knowledge encryption and RLS-protected data vaults.
-  * ⚡ **Local-First Logic**: Resilient systems built on Isar and Supabase Realtime.
 
------
+---
+
+<div align="center">
+  <p><strong>SYSTEMS_STATUS: ACTIVE 🟢</strong></p>
+  <p>Let's build something disruptive. 🚀</p>
+
+  <a href="https://asad-portfolio-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-282c34?style=for-the-badge&logo=vercel&logoColor=61AFEF" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:asadullah.devop@gmail.com">
+    <img src="https://img.shields.io/badge/SEND_EMAIL-282c34?style=for-the-badge&logo=gmail&logoColor=E06C75" alt="Email" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=30&section=footer" />
+</p>
+
+---
 
 ## 📂 Project Showreel: Engineering for Impact
 
@@ -198,23 +226,54 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 
 -----
 
-## 📊 Performance Analytics
+# 🛠 Tech Stack
 
-\<p align="center"\>
-\<img src="[https://github-readme-stats.vercel.app/api?username=ATdeveloper911\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&bg\_color=0a192f](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DATdeveloper911%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0a192f)" alt="GitHub Stats" /\>
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ATdeveloper911\&layout=compact\&theme=tokyonight\&hide\_border=true\&bg\_color=0a192f](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DATdeveloper911%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0a192f)" alt="Top Langs" /\>
-\</p\>
+## 🌐 Frontend & Web
 
-\<p align="center"\>
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=ATdeveloper911\&theme=react-dark\&bg\_color=0a192f\&hide\_border=true\&color=00F5FF\&line=00F5FF](https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DATdeveloper911%26theme%3Dreact-dark%26bg_color%3D0a192f%26hide_border%3Dtrue%26color%3D00F5FF%26line%3D00F5FF)" alt="Contribution Graph" /\>
-\</p\>
+Next.js • React • TailwindCSS • TypeScript • Framer Motion
+
+## 📱 Mobile Architecture
+
+Flutter • React Native • Expo • Riverpod
+
+## ⚙ Backend & Security
+
+Node.js • Express • Supabase • JWT • RBAC • Encryption
 
 -----
 
-\<div align="center"\>
-\<code\>Portfolio: asad-portfolio-pi.vercel.app\</code\>  
-\<code\>Email: asadullah.devop@gmail.com\</code\>
-\</div\>
+---
+
+## 📊 Performance Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ATdeveloper911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATdeveloper911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATdeveloper911&theme=react-dark&bg_color=0a192f&hide_border=true&color=00F5FF&line=00F5FF" alt="Contribution Graph" />
+</p>
+-----
+
+---
+
+<div align="center">
+  <p><strong>SYSTEMS_STATUS: ACTIVE 🟢</strong></p>
+  <p>Let's build something disruptive. 🚀</p>
+
+  <a href="https://asad-portfolio-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-282c34?style=for-the-badge&logo=vercel&logoColor=61AFEF" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:asadullah.devop@gmail.com">
+    <img src="https://img.shields.io/badge/SEND_EMAIL-282c34?style=for-the-badge&logo=gmail&logoColor=E06C75" alt="Email" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=30&section=footer" />
+</p>
+
 
 -----
 
