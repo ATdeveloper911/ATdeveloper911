@@ -1,5 +1,4 @@
 ----
-### The Multi-Vertical Architect/ README.md
 
 # <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=260&section=header&text=Asadullah%20|%20Software%20Architect&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38" /> </p>
 
@@ -8,18 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=700&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Architect;Flutter+Expert;React+Native+Specialist;Zero-Knowledge+Security+Engineer;Offline-First+Systems;Mission-Critical+Software" alt="Typing SVG" />
   </a>
 </p>
-
----
-
-## 🛰️ Systemic Vision
-I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-Synced Mobility**. My mission is **Systemic Untethering**—moving professional data from fixed desks to high-performance, resilient mobile ecosystems.
-
-### 🛠️ Core Verticals
-* 🚀 **Full-Stack Mastery**: Scalable MERN architectures with 0ms cloud-sync.
-* 📱 **Mobile Mobility**: High-fidelity Flutter & React Native applications.
-* 🛡️ **Hardened Security**: Zero-knowledge encryption and RLS-protected data vaults.
-* ⚡ **Local-First Logic**: Resilient systems built on Isar and Supabase Realtime.
-
 
 ---
 
@@ -36,6 +23,18 @@ I build **secure, scalable, and intelligent software ecosystems** engineered for
 🔹 **Systems Specialist** (Offline-First & Local-Sync)
 
 My focus: **Security • Scalability • Performance • Clean Architecture**
+
+---
+
+## 🛰️ Systemic Vision
+I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-Synced Mobility**. My mission is **Systemic Untethering**—moving professional data from fixed desks to high-performance, resilient mobile ecosystems.
+
+### 🛠️ Core Verticals
+* 🚀 **Full-Stack Mastery**: Scalable MERN architectures with 0ms cloud-sync.
+* 📱 **Mobile Mobility**: High-fidelity Flutter & React Native applications.
+* 🛡️ **Hardened Security**: Zero-knowledge encryption and RLS-protected data vaults.
+* ⚡ **Local-First Logic**: Resilient systems built on Isar and Supabase Realtime.
+
 
 ---
 
@@ -93,7 +92,7 @@ My focus: **Security • Scalability • Performance • Clean Architecture**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATdeveloper911&theme=react-dark&bg_color=0a192f&hide_border=true&color=00F5FF&line=00F5FF" alt="Contribution Graph" />
 </p>
------
+
 
 ---
 
@@ -114,6 +113,8 @@ My focus: **Security • Scalability • Performance • Clean Architecture**
   <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=30&section=footer" />
 </p>
 
+
+---
 
 -----
 
