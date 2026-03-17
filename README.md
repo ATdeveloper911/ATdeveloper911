@@ -158,6 +158,130 @@ Across Fintech, Healthcare, and Institutional Management, operations are often p
 
 -----
 
+Hey my buddy, what's up? Is there any other adventure that is waiting?
+
+I’ve analyzed the `WaqarAnjum2` README and extracted the exact components he uses: **Capsule Render** for the waving header, **Typing SVG** for the animated titles, and the specific **Tokyo Night** theme for the GitHub analytics.
+
+I have rebuilt your README using his exact layout and styling logic, while keeping all your personal data and project details intact.
+
+Copy and paste this into your profile's `README.md`:
+
+-----
+
+# \<p align="center"\> [](https://www.google.com/search?q=https://github.com/ATdeveloper911) \</p\>
+
+\<p align="center"\>
+\<a href="[https://git.io/typing-svg](https://www.google.com/search?q=https://git.io/typing-svg)"\>\<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=14F1D9\&center=true\&vCenter=true\&width=750\&lines=Full-Stack+Architect;Mobile+App+Engineer;Systemic+Untethering+Expert;Cybersecurity+Focused+Developer;Scalable+System+Designer](https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D22%26duration%3D3000%26pause%3D1000%26color%3D14F1D9%26center%3Dtrue%26vCenter%3Dtrue%26width%3D750%26lines%3DFull-Stack%2BArchitect%3BMobile%2BApp%2BEngineer%3BSystemic%2BUntethering%2BExpert%3BCybersecurity%2BFocused%2BDeveloper%3BScalable%2BSystem%2BDesigner)" alt="Typing SVG" /\>\</a\>
+\</p\>
+
+-----
+
+# 🧠 About Me
+
+I build **secure, scalable, and intelligent software ecosystems** engineered for performance and long-term maintainability.
+
+🔹 **Full-Stack Engineer** (MERN Stack)
+
+🔹 **Cross-Platform Architect** (Flutter & React Native)
+
+🔹 **Security Engineer** (Zero-Knowledge & RLS)
+
+🔹 **Systems Specialist** (Offline-First & Local-Sync)
+
+My focus: **Security • Scalability • Performance • Clean Architecture**
+
+-----
+
+# 🚀 Featured Projects (Flagships)
+
+## 🏢 BestPriceKSA – Enterprise Retail ERP
+
+🌐 [https://bestpriceksa.com](https://www.google.com/search?q=https://bestpriceksa.com)
+High-performance retail command center solving "Blind Profit" and inventory synchronization bottlenecks.
+
+  * **Stack**: React, Node.js, Express, MySQL/MongoDB.
+  * **Features**: Store Command Strip, Real-time stock visibility, Zero-double-counting finance engine.
+
+## ⚡ VeraBolt – Ultra-Secure License SaaS
+
+🌐 [VeraBolt Repository](https://github.com/ATdeveloper911/flutter-)
+A resilient workspace ecosystem designed for professional license management with an offline-first core.
+
+  * **Stack**: Flutter (Riverpod), Isar Database, Supabase Realtime.
+  * **Features**: Hardware fingerprinting, 0ms latency local-sync, Zero-knowledge backups.
+
+## 🛡️ Dele.to – Zero-Knowledge Privacy Vault
+
+🌐 [https://dele.to](https://www.google.com/search?q=https://dele.to)
+A cybersecurity research project facilitating stateless, private data handshakes.
+
+  * **Stack**: React, Node.js, Web Crypto API.
+  * **Features**: Client-side AES-256-GCM encryption, Stateless server architecture.
+
+-----
+
+# 🛠 Tech Stack
+
+## 🌐 Frontend & Web
+
+Next.js • React • TailwindCSS • TypeScript • Framer Motion
+
+## 📱 Mobile Architecture
+
+Flutter • React Native • Expo • Riverpod
+
+## ⚙ Backend & Security
+
+Node.js • Express • Supabase • JWT • RBAC • Encryption
+
+-----
+
+# 📊 GitHub Analytics
+
+\<p align="center"\>
+\<img src="[https://github-readme-stats.vercel.app/api?username=ATdeveloper911\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&bg\_color=0f2027](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DATdeveloper911%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0f2027)" alt="GitHub Stats" /\>
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ATdeveloper911\&layout=compact\&theme=tokyonight\&hide\_border=true\&bg\_color=0f2027](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DATdeveloper911%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0f2027)" alt="Top Langs" /\>
+\</p\>
+
+\<p align="center"\>
+\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=ATdeveloper911\&theme=tokyonight\&hide\_border=true\&background=0f2027](https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DATdeveloper911%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0f2027)" alt="Streak Stats" /\>
+\</p\>
+
+-----
+
+# 🧩 Engineering Principles
+
+```
++ Secure by Design
++ Scalable Architecture
++ Local-First Resilience
++ Clean Modular Code
++ Performance Optimized
++ Zero-Knowledge Privacy
+```
+
+-----
+
+\<div align="center"\>
+\<p\>\<strong\>SYSTEMS\_STATUS: ACTIVE 🟢\</strong\>\</p\>
+\<p\>Let's build something disruptive. 🚀\</p\>
+
+[](mailto:asadullah.devop@gmail.com)
+[](https://www.google.com/search?q=https://asad-portfolio-pi.vercel.app/)
+
+\</div\>
+
+-----
+
+### Key improvements I made to match your prototype:
+
+  * **Waving Header**: Used the exact `capsule-render` logic with the "Waving" type and "0f2027" dark gradient.
+  * **Typing Animation**: Implemented the `Typing-SVG` for your professional titles in the "Fira Code" font.
+  * **Analytics Theme**: Switched your stats to the **Tokyo Night** theme with a custom background color to match the header.
+  * **Principle Box**: Created the terminal-style "Engineering Principles" box using the same code-block formatting.
+
+**Would you like me to add the "Activity Graph" section from the prototype to show your contribution density over time?**
+
 ### Why this README works:
 
 1.  **Direct Action**: Recruiters can instantly click your live site (**BestPriceKSA**) or your portfolio directly from the header.
