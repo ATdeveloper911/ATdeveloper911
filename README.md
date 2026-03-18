@@ -56,7 +56,7 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 
   * **[Gold Bazar](https://github.com/ATdeveloper911/react-native)**: A physics-based laboratory suite implementing **Archimedes' Principle** and traditional **Tola/Masha/Ratti** weight conversion.
   * **[MindSpace](https://github.com/ATdeveloper911/react-native)**: A mental wellness ecosystem that leverages **Gemini AI for Sentiment Analysis** to provide actionable wellness data.
-  * **[Smart Travel Planner](https://github.com/ATdeveloper911/react-native)**: A group logistics engine featuring a **Hybrid Budget Calculator** and an AI-powered assistant for itinerary management.
+  * **[Smart Budget Analyzer](https://github.com/ATdeveloper911/react-native)**: Transforming raw transaction data into actionable financial strategy through **automated categorization** and predictive spending alerts.
 
 -----
 
