@@ -43,8 +43,8 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 ### 🌐 MERN Stack | Integrated Command Centers
 
   * **[BestPriceKSA](https://www.google.com/search?q=https://bestpriceksa.com/)**: An enterprise retail ERP that eliminated "Blind Profits" by centralizing inventory and finance into a single horizontal "Command Strip".
-  * **[AIILP](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/AIILP/)**: An Academic-Industry Linkage Platform featuring **Bulk Student Onboarding (\<60s)** and real-time internship status tracking.
-  * **[BloodLink](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/tree/main/blood_donations_system/)**: A life-critical medical logistics system using **Socket.IO** to reduce matching latency during emergencies.
+  * **[AIILP](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/)**: An Academic-Industry Linkage Platform featuring **Bulk Student Onboarding (\<60s)** and real-time internship status tracking.
+  * **[BloodLink](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/)**: A life-critical medical logistics system using **Socket.IO** to reduce matching latency during emergencies.
 
 ### 🎯 Flutter Core | Institutional Logic
 
@@ -54,9 +54,9 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 
 ### 📱 React Native | Cloud-Synced Mobility
 
-  * **[Gold Bazar](https://github.com/ATdeveloper911/react-native)**: A physics-based laboratory suite implementing **Archimedes' Principle** and traditional **Tola/Masha/Ratti** weight conversion.
-  * **[MindSpace](https://github.com/ATdeveloper911/react-native)**: A mental wellness ecosystem that leverages **Gemini AI for Sentiment Analysis** to provide actionable wellness data.
-  * **[Smart Budget Analyzer](https://github.com/ATdeveloper911/react-native)**: Transforming raw transaction data into actionable financial strategy through **automated categorization** and predictive spending alerts.
+  * **[Gold Bazar](https://github.com/ATdeveloper911/react-native/)**: A physics-based laboratory suite implementing **Archimedes' Principle** and traditional **Tola/Masha/Ratti** weight conversion.
+  * **[MindSpace](https://github.com/ATdeveloper911/react-native/)**: A mental wellness ecosystem that leverages **Gemini AI for Sentiment Analysis** to provide actionable wellness data.
+  * **[Smart Budget Analyzer](https://github.com/ATdeveloper911/react-native/)**: Transforming raw transaction data into actionable financial strategy through **automated categorization** and predictive spending alerts.
 
 -----
 
