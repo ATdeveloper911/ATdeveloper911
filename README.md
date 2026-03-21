@@ -43,8 +43,8 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 ### 🌐 MERN Stack | Integrated Command Centers
 
   * **[BestPriceKSA](https://www.google.com/search?q=https://bestpriceksa.com/)**: An enterprise retail ERP that eliminated "Blind Profits" by centralizing inventory and finance into a single horizontal "Command Strip".
-  * **[AIILP](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/)**: An Academic-Industry Linkage Platform featuring **Bulk Student Onboarding (\<60s)** and real-time internship status tracking.
-  * **[BloodLink](https://www.google.com/search?q=https://github.com/ATdeveloper911/mern-stack/)**: A life-critical medical logistics system using **Socket.IO** to reduce matching latency during emergencies.
+  * **[AIILP](https://github.com/ATdeveloper911/mern-stack/)**: An Academic-Industry Linkage Platform featuring **Bulk Student Onboarding (\<60s)** and real-time internship status tracking.
+  * **[BloodLink](https://github.com/ATdeveloper911/mern-stack/)**: A life-critical medical logistics system using **Socket.IO** to reduce matching latency during emergencies.
 
 ### 🎯 Flutter Core | Institutional Logic
 
