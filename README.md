@@ -97,6 +97,25 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 
 ---
 
+## 🛠 Tech Stack & Expertise
+
+**Mobile Development**  
+Flutter • React Native • Riverpod • Expo • Isar/Hive
+
+**Full-Stack Development**  
+TypeScript • MERN Stack • Next.js • Node.js • Express • Socket.IO
+
+**Architecture & Tools**  
+Clean Architecture • Offline-First • Docker • JWT • Row-Level Security • Gemini AI
+
+**Databases**  
+MongoDB • Supabase • PostgreSQL • Firebase
+
+
+---
+
+**Thank you for visiting my GitHub!** ✨
+
 <div align="center">
   <p><strong>SYSTEMS_STATUS: ACTIVE 🟢</strong></p>
   <p>Let's build something disruptive. </p>
