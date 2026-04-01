@@ -59,6 +59,22 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
   * **[Smart Budget Analyzer](https://github.com/asaddevx/react-native/)**: Transforming raw transaction data into actionable financial strategy through **automated categorization** and predictive spending alerts.
 
 -----
+## 🛠 Tech Stack & Expertise
+
+**Mobile Development**  
+Flutter • React Native • Riverpod • Expo • Isar/Hive
+
+**Full-Stack Development**  
+TypeScript • MERN Stack • Next.js • Node.js • Express • Socket.IO
+
+**Architecture & Tools**  
+Clean Architecture • Offline-First • Docker • JWT • Row-Level Security • Gemini AI
+
+**Databases**  
+MongoDB • Supabase • PostgreSQL • Firebase
+
+
+---
 
 # 🧩 Engineering Principles
 
@@ -97,22 +113,6 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 
 ---
 
-## 🛠 Tech Stack & Expertise
-
-**Mobile Development**  
-Flutter • React Native • Riverpod • Expo • Isar/Hive
-
-**Full-Stack Development**  
-TypeScript • MERN Stack • Next.js • Node.js • Express • Socket.IO
-
-**Architecture & Tools**  
-Clean Architecture • Offline-First • Docker • JWT • Row-Level Security • Gemini AI
-
-**Databases**  
-MongoDB • Supabase • PostgreSQL • Firebase
-
-
----
 <div align="center">
 <p><strong>Thank you for visiting my GitHub! ✨</strong></p>
 </div>
