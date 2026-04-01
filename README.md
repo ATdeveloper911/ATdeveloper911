@@ -113,7 +113,9 @@ MongoDB • Supabase • PostgreSQL • Firebase
 
 
 ---
-
+<div align="center">
+**Thank you for visiting my GitHub!** ✨
+</div>
 
 
 <div align="center">
@@ -134,9 +136,7 @@ MongoDB • Supabase • PostgreSQL • Firebase
 </div>
 
 
---
-**Thank you for visiting my GitHub!** ✨
----
+
 
 
 
