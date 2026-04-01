@@ -114,10 +114,10 @@ MongoDB • Supabase • PostgreSQL • Firebase
 
 ---
 <div align="center">
-**Thank you for visiting my GitHub!** ✨
+<p><strong>Thank you for visiting my GitHub! ✨</strong></p>
 </div>
 
-
+---
 <div align="center">
   <p><strong>SYSTEMS_STATUS: ACTIVE 🟢</strong></p>
   <p>Let's build something disruptive. </p>
