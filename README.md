@@ -114,7 +114,7 @@ MongoDB • Supabase • PostgreSQL • Firebase
 
 ---
 
-**Thank you for visiting my GitHub!** ✨
+
 
 <div align="center">
   <p><strong>SYSTEMS_STATUS: ACTIVE 🟢</strong></p>
@@ -132,6 +132,11 @@ MongoDB • Supabase • PostgreSQL • Firebase
     <img src="https://img.shields.io/badge/SEND_EMAIL-282c34?style=for-the-badge&logo=gmail&logoColor=E06C75" alt="Email" />
   </a>
 </div>
+
+
+--
+**Thank you for visiting my GitHub!** ✨
+---
 
 
 
