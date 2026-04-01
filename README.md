@@ -118,6 +118,8 @@ MongoDB • Supabase • PostgreSQL • Firebase
 </div>
 
 ---
+## 📬 Let's Connect & Collaborate
+
 <div align="center">
   <p><strong>SYSTEMS_STATUS: ACTIVE 🟢</strong></p>
   <p>Let's build something disruptive. </p>
