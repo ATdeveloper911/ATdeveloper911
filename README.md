@@ -42,7 +42,7 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
 
 ### 🌐 MERN Stack | Integrated Command Centers
 
-  * **[BestPriceKSA](https://bestpriceksa.com/)**: An enterprise retail ERP that eliminated "Blind Profits" by centralizing inventory and finance into a single horizontal "Command Strip". [![Visit Website](https://img.shields.io/badge/Visit_Website-00A98F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bestpriceksa.com/)
+  * **[BestPriceKSA](https://bestpriceksa.com)**: An enterprise retail ERP that eliminated "Blind Profits" by centralizing inventory and finance into a single horizontal "Command Strip". [![Visit Website](https://img.shields.io/badge/Visit_Website-00A98F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bestpriceksa.com/)
   * **[AIILP](https://github.com/asaddevx/mern-stack/)**: An Academic-Industry Linkage Platform featuring **Bulk Student Onboarding (\<60s)** and real-time internship status tracking.
   * **[BloodLink](https://github.com/asaddevx/mern-stack/)**: A life-critical medical logistics system using **Socket.IO** to reduce matching latency during emergencies.
 
