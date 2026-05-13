@@ -51,7 +51,8 @@ I engineer the bridge between **Stationary Legacy Workflows** and **Agile Cloud-
   * **[VeraBolt](https://github.com/asaddevx/flutter-/)**: A resilient SaaS featuring **Pro License Activation** via hardware-fingerprinting and integrated **Poker AI logic** built on a local-first, offline-synced architecture.
   * **[Smart Complaint System](https://github.com/asaddevx/flutter-/)**: A governance tool that decentralizes accountability through **automated 24h escalation** and RLS-protected timelines.
   * **[BS CGPA Calculator](https://github.com/asaddevx/flutter-/)**: An academic strategy engine that helps students forecast long-term goals and export verifiable records via **PDF/CSV**.
-
+  * **[Math Champ](https://github.com/asaddevx/flutter-/)**: A gamified math learning engine for kids aged 5-12, featuring four core operations, three learning modes, and five interactive games — **now live on the Play Store**. [![Get it on Google Play](https://img.shields.io/badge/Get_it_on_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.devteen.mathchampkids)
+  
 ### 📱 React Native | Cloud-Synced Mobility
 
   * **[Gold Bazar](https://github.com/asaddevx/react-native/)**: A physics-based laboratory suite implementing **Archimedes' Principle** and traditional **Tola/Masha/Ratti** weight conversion.
