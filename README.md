@@ -106,7 +106,7 @@ MongoDB • Supabase • PostgreSQL • Firebase
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asaddevx&theme=tokyonight&hide_border=true&background=0f2027&border_radius=22" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats-fast.herokuapp.com/?user=asaddevx&theme=tokyonight&hide_border=true&background=0f2027&border_radius=22" alt="Streak Stats" />
 </p>
 
 ---
