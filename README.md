@@ -117,6 +117,16 @@ MongoDB • Supabase • PostgreSQL • Firebase
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaddevx&theme=react-dark&bg_color=0a192f&hide_border=true&color=00F5FF&line=00F5FF&radius=16" alt="Contribution Graph" />
 </p>
 
+---
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asaddevx/asaddevx/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asaddevx/asaddevx/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/asaddevx/asaddevx/output/github-snake-dark.svg" />
+  </picture>
+</p>
 
 ---
 
