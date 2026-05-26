@@ -126,6 +126,9 @@ MongoDB • Supabase • PostgreSQL • Firebase
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asaddevx/asaddevx/output/github-snake.svg" />
     <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/asaddevx/asaddevx/output/github-snake-dark.svg" />
   </picture>
+   <p align="center">
+  <i>Watch the snake gobble up your contributions — a fun way to see your coding journey!</i>
+   </p>
 </p>
 
 ---
