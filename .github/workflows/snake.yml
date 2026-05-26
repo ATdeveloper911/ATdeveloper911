@@ -1,29 +1,28 @@
-name: Generate GitHub Snake Animation  
-  
-on:  
-  schedule:  
-    - cron: "0 0 * * *"  
-  workflow_dispatch:  
-  
-jobs:  
-  build:  
-    runs-on: ubuntu-latest  
-    steps:  
-      - name: Checkout repository  
-        uses: actions/checkout@v4  
-  
-      - name: Generate snake animation  
-        uses: Platane/snk@v3  
-        with:  
-          github_user_name: asaddevx  
-          outputs: |  
-            dist/github-snake.svg  
-            dist/github-snake-dark.svg?palette=github-dark  
-  
-      - name: Commit and push to output branch  
-        uses: peaceiris/actions-gh-pages@v3  
-        with:  
-          github_token: ${{ secrets.GITHUB_TOKEN }}  
-          publish_dir: ./dist  
-          publish_branch: output  
-          commit_message: "Update snake animation [skip ci]" 
+name: Generate GitHub Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation with custom theme
+        uses: Platane/snk@v3
+        with:
+          github_user_name: asaddevx
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=00F5FF&color_dots=0a192f,0a192f,0a192f,0a192f,0a192f,0a192f,0a192f,0a192f
+
+      - name: Commit and push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
