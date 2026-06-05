@@ -2,24 +2,21 @@ name: Generate Streak Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate Streak Stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          username: asaddevx
-          theme: tokyonight
-          hide_border: true
-          background: 0f2027
-          border_radius: 22
-          output_path: streak-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: streak-stats.svg
+          options: "user=asaddevx&theme=tokyonight&hide_border=true&background=0f2027&border_radius=22"
 
       - name: Commit and Push
         run: |
