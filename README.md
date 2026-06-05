@@ -105,7 +105,7 @@ MongoDB • Supabase • PostgreSQL • Firebase
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=asaddevx&theme=tokyonight&hide_border=true&background=0f2027&border_radius=22" alt="Streak Stats" />
+  <img src="./streak-stats.svg" alt="Streak Stats" />
 </p>
 
 ---
