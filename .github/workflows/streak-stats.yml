@@ -1,0 +1,30 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          username: asaddevx
+          theme: tokyonight
+          hide_border: true
+          background: 0f2027
+          border_radius: 22
+          output_path: streak-stats.svg
+
+      - name: Commit and Push
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add streak-stats.svg
+          git diff --cached --quiet || git commit -m "Update streak stats"
+          git push
