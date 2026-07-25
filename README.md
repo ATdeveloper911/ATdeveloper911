@@ -14,7 +14,7 @@
 
 I build **secure, scalable, and intelligent software ecosystems** engineered for performance and long-term maintainability.
 
-🔹 **Full-Stack Engineer** (MERN Stack)
+🔹 **Full-Stack Engineer** (MERNS Stack)
 
 🔹 **Cross-Platform Architect** (Flutter & React Native)
 
