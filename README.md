@@ -9,7 +9,7 @@
 
 ---
 
-# 🧠 About Me     [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fasaddevx&style=flat)](https://rankistan.dev)
+# 🧠 About Me
 
 I build **secure, scalable, and intelligent software ecosystems** engineered for performance and long-term maintainability.
 
